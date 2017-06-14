@@ -10,7 +10,11 @@ Filled in application.
 
 Noted Key and Access Tokens.
 
-Installed twitter gem : gem install twitter (didn't work - needed to install devkit first - https://rubyinstaller.org/downloads/)
+Attempted to install twitter gem: $ gem install twitter (didn't work - needed to install devkit first - https://rubyinstaller.org/downloads/)
+
+Installed devkit: $ ruby dk.rb init $ ruby dk.rb install
+
+Installed twitter gem
 
 Created bot.rb (source - http://www.codebycodes.com/blog/2015/08/31/creating-a-simeple-twitter-bot-with-ruby/#comment-3361024008) with Key and Access Tokens (didn't work - added VERIFY_NONE code line)
 
