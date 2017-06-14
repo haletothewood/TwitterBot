@@ -16,6 +16,6 @@ Installed devkit: $ ruby dk.rb init $ ruby dk.rb install
 
 Installed twitter gem
 
-Created bot.rb (source - http://www.codebycodes.com/blog/2015/08/31/creating-a-simeple-twitter-bot-with-ruby/#comment-3361024008) with Key and Access Tokens (didn't work - added VERIFY_NONE code line)
+Created bot.rb (source - http://www.codebycodes.com/blog/2015/08/31/creating-a-simeple-twitter-bot-with-ruby/#comment-3361024008) with Key and Access Tokens (didn't work - added VERIFY_NONE code line NB: this is not recommened due to security issues but as I'm only playing around before I delete the app I think it's OK)
 
 Tweeted my first tweet!
